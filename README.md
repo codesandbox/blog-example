@@ -1,11 +1,12 @@
-# Astro Starter Kit: Blog
+# Astro Starter Kit: Blog in CodeSandbox
 
 ```
 npm create astro@latest -- --template blog
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/blog)
+[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/blog-example)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
